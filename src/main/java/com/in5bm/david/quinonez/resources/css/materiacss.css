@@ -1,0 +1,24 @@
+
+/* 
+    Created on : 28/09/2022, 10:17:36
+    Author     : informatica
+*/
+
+.botones{
+    -fx-background-color: white;
+    -fx-background-radius:  15 15 15 15;
+}
+
+.anchorP{
+    -fx-background-color:  #17A589;
+}
+
+.figuras{
+    -fx-background-color:  #F9E79F50;
+    -fx-background-radius:  150 150 150 150;
+}
+
+.lineas{
+    -fx-background-color: #117864;
+    -fx-background-radius: 20 20 20 20;
+}

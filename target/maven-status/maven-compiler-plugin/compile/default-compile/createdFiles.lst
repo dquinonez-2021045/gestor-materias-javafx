@@ -1,0 +1,8 @@
+com\in5bm\david\quinonez\models\domain\Materia.class
+com\in5bm\david\quinonez\models\idao\IMateriaDAO.class
+com\in5bm\david\quinonez\controller\MateriaController.class
+com\in5bm\david\quinonez\db\Conexion.class
+com\in5bm\david\quinonez\controller\MateriaController$Operacion.class
+com\in5bm\david\quinonez\models\dao\MateriaDaoImpl.class
+com\in5bm\david\quinonez\System\Principal.class
+com\in5bm\david\quinonez\controller\MateriaController$1.class
